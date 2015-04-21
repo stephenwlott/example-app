@@ -1,8 +1,8 @@
+== README
+
 ## example-app: an example Rails application.
 This app was created with the command:
 rails new bloccit -T
-
-== README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
