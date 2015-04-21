@@ -9,7 +9,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version: 4.2.0
+* Rails version: 4.2.0
+
+* Ruby version: 2.1.1p76 (2014-02-24 revision 45161) [x86_64-linux]
 
 * System dependencies
 
